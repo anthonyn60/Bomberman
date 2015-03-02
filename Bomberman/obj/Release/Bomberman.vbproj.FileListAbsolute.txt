@@ -1,0 +1,17 @@
+S:\Bomberman Final\Bomberman\Bomberman\bin\Release\Bomberman.exe
+S:\Bomberman Final\Bomberman\Bomberman\bin\Release\Bomberman.pdb
+S:\Bomberman Final\Bomberman\Bomberman\bin\Release\Bomberman.xml
+S:\Bomberman Final\Bomberman\Bomberman\obj\Release\ResolveAssemblyReference.cache
+S:\Bomberman Final\Bomberman\Bomberman\obj\Release\Bomberman.frmGame.resources
+S:\Bomberman Final\Bomberman\Bomberman\obj\Release\Bomberman.frmIntro.resources
+S:\Bomberman Final\Bomberman\Bomberman\obj\Release\Bomberman.frmLoad.resources
+S:\Bomberman Final\Bomberman\Bomberman\obj\Release\Bomberman.frmResults.resources
+S:\Bomberman Final\Bomberman\Bomberman\obj\Release\Bomberman.frmInstructions.resources
+S:\Bomberman Final\Bomberman\Bomberman\obj\Release\Bomberman.Resources.resources
+S:\Bomberman Final\Bomberman\Bomberman\obj\Release\Bomberman.vbproj.GenerateResource.Cache
+S:\Bomberman Final\Bomberman\Bomberman\obj\Release\Bomberman.exe
+S:\Bomberman Final\Bomberman\Bomberman\obj\Release\Bomberman.xml
+S:\Bomberman Final\Bomberman\Bomberman\obj\Release\Bomberman.pdb
+C:\Users\Anthony\Desktop\Bomberman\Bomberman\obj\Release\Bomberman.exe
+C:\Users\Anthony\Desktop\Bomberman\Bomberman\obj\Release\Bomberman.xml
+C:\Users\Anthony\Desktop\Bomberman\Bomberman\obj\Release\Bomberman.pdb
